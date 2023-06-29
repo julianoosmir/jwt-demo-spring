@@ -14,6 +14,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.stereotype.Service;
 
+import seguranca.demo.dto.AuthDto;
 import seguranca.demo.entity.Perfil;
 import seguranca.demo.entity.Usuario;
 import seguranca.demo.jwt.JwtRequest;

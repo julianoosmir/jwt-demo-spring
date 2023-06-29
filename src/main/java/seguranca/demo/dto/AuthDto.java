@@ -1,4 +1,4 @@
-package seguranca.demo.service;
+package seguranca.demo.dto;
 
 
 import java.util.List;
